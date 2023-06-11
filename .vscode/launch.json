@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PairsWithGivenDifference",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.TwoPointers.PairsWithGivenDifference",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SubarrayWithGivenSum",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.TwoPointers.SubarrayWithGivenSum",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestElement",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Sorting.KthSmallestElement",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "InversionCountInArray",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Sorting.InversionCountInArray",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "TitleToNumber",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.TitleToNumber",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstringWithoutRepeatingCharacters",
+            "request": "launch",
+            "mainClass": "Strings.LongestSubstringWithoutRepeatingCharacters",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddOneToNumber",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Arrays.AddOneToNumber",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Flip",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Arrays.Flip",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_AND_Pair",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.BitManipulation.Maximum_AND_Pair",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Min_XOR_value",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.BitManipulation.Min_XOR_value",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumberII",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.BitManipulation.SingleNumberII",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumberIII",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.BitManipulation.SingleNumberIII",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingInteger",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.InterviewQuestions.FirstMissingInteger",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "MergeIntervals",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.InterviewQuestions.MergeIntervals",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "MergeOverlappingIntervals",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.InterviewQuestions.MergeOverlappingIntervals",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfDigitOne",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.InterviewQuestions.NumberOfDigitOne",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Compute_nCr_Modm",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.Compute_nCr_Modm",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CountOfGcd",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.CountOfGcd",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "DeleteOne",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.DeleteOne",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "FindAllPrimes",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.FindAllPrimes",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "LuckyNumbers",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.LuckyNumbers",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfOpenDoors",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.NumberOfOpenDoors",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "PairSumDivisible",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.PairSumDivisible",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "PrimeModuloInverse",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.PrimeModuloInverse",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "PrimeSum",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.PrimeSum",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "VeryLargePower",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Maths.VeryLargePower",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "AntiDiagonals",
+            "request": "launch",
+            "mainClass": "AntiDiagonals",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CommonElements",
+            "request": "launch",
+            "mainClass": "CommonElements",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CountPairSum",
+            "request": "launch",
+            "mainClass": "CountPairSum",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.MajorityElement",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SpecialIndex",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.SpecialIndex",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "MatrixTranspose",
+            "request": "launch",
+            "mainClass": "MatrixTranspose",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "RotateMatrix",
+            "request": "launch",
+            "mainClass": "RotateMatrix",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "RowToColumnZero",
+            "request": "launch",
+            "mainClass": "RowToColumnZero",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "BinaryStringSum",
+            "request": "launch",
+            "mainClass": "Strings.BinaryStringSum",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CheckAnagrams",
+            "request": "launch",
+            "mainClass": "Strings.CheckAnagrams",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CountOccurences",
+            "request": "launch",
+            "mainClass": "Strings.CountOccurences",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "Strings.LongestCommonPrefix",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "LongestPallindromeSubString",
+            "request": "launch",
+            "mainClass": "Strings.LongestPallindromeSubString",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SimpleReverse",
+            "request": "launch",
+            "mainClass": "Strings.SimpleReverse",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "StringOperations",
+            "request": "launch",
+            "mainClass": "Strings.StringOperations",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayWithZeroSum",
+            "request": "launch",
+            "mainClass": "SubArrayWithZeroSum",
+            "projectName": "PractiseCodes_380d0ca7"
+        }
+    ]
+}
