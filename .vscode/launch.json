@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubSets",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Backtracking.SubSets",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Maze",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Backtracking.Maze",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "UniquePermuation",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Backtracking.UniquePermuation",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Backtracking.Permutations",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "MishaAndCandies",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Heaps.MishaAndCandies",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "VerticalOrderTravseral",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Trees.VerticalOrderTravseral",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
             "name": "PairsWithGivenDifference",
             "request": "launch",
             "mainClass": "AdvancedDSA.TwoPointers.PairsWithGivenDifference",
