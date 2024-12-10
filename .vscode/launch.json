@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PainterPartition",
+            "request": "launch",
+            "mainClass": "BinarySearch.PainterPartition",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "AllTopologicalOrders",
+            "request": "launch",
+            "mainClass": "Graphs.AllTopologicalOrders",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "TopologicalSort",
+            "request": "launch",
+            "mainClass": "Graphs.TopologicalSort",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CycleInDirectedGraph",
+            "request": "launch",
+            "mainClass": "Graphs.CycleInDirectedGraph",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "FirstDepthFirstSearch",
+            "request": "launch",
+            "mainClass": "Graphs.FirstDepthFirstSearch",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "PathInDirectedGraph",
+            "request": "launch",
+            "mainClass": "Graphs.PathInDirectedGraph",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "CuttingRod",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.DynamicProgramming.CuttingRod",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "FlipArray",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.DynamicProgramming.FlipArray",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "N_Queens",
+            "request": "launch",
+            "mainClass": "AdvancedDSA.Backtracking.N_Queens",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
             "name": "SubSets",
             "request": "launch",
             "mainClass": "AdvancedDSA.Backtracking.SubSets",
