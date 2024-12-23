@@ -4,10 +4,11 @@ import java.util.ArrayList;
 
 public class LeadersInArray {
     public static void main(String[] args) {
-
+        // int[] a = {16, 17, 4, 3, 5, 2};
+        // System.out.println(solve(a));
     }
 
-    public ArrayList<Integer> solve(ArrayList<Integer> a) {
+    public static ArrayList<Integer> solve(ArrayList<Integer> a) {
         ArrayList<Integer> ans = new ArrayList<>();
         int n = a.size();
         int max = Integer.MIN_VALUE;

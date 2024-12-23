@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GenerateAllSubArray",
+            "request": "launch",
+            "mainClass": "Arrays.SubArrays.GenerateAllSubArray",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "PickFromBothSides",
+            "request": "launch",
+            "mainClass": "Arrays.CarryForward.PickFromBothSides",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuyAndSellStocks",
+            "request": "launch",
+            "mainClass": "Arrays.CarryForward.BestTimeToBuyAndSellStocks",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
             "name": "PainterPartition",
             "request": "launch",
             "mainClass": "BinarySearch.PainterPartition",
