@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RotateMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.Matrices.RotateMatrix",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
             "name": "GenerateAllSubArray",
             "request": "launch",
             "mainClass": "Arrays.SubArrays.GenerateAllSubArray",

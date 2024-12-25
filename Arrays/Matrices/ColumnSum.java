@@ -9,7 +9,7 @@ public class ColumnSum {
         for (int i = 0; i < cols; i++) {
             int sum = 0;
             for (int j = 0; j < rows; j++) {
-                sum += A[i][j];
+                sum += A[j][i];
             }
             ans[i] = sum;
         }
