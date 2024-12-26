@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RepeatNumber",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.RepeatNumber",
+            "projectName": "PractiseCodes_380d0ca7"
+        },
+        {
+            "type": "java",
             "name": "RotateMatrix",
             "request": "launch",
             "mainClass": "Arrays.Matrices.RotateMatrix",
