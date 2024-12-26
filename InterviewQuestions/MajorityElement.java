@@ -7,12 +7,14 @@ public class MajorityElement {
         int freq = 0;
 
         for (int i = 0; i < n; i++) {
-            if (ans == a[i]) {
+            if (freq == 0) {
+                ans = a[i];
                 freq++;
             } else {
-                freq--;
-                if (freq == 0)
-                    ans = a[i];
+                if (a[i] == ans)
+                    freq++;
+                else
+                    freq--;
             }
         }
 
@@ -21,11 +23,11 @@ public class MajorityElement {
 
         int count = 0;
         for (int i = 0; i < n; i++) {
-            if (ans == a[i])
+            if (a[i] == ans)
                 count++;
         }
 
-        return count > Math.floor(count / 2) ? ans : -1;
+        return count > n / 2 ? ans : -1;
     }
 
     public static void main(String[] args) {
