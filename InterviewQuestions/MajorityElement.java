@@ -30,8 +30,8 @@ public class MajorityElement {
         return count > n / 2 ? ans : -1;
     }
 
-    public static void main(String[] args) {
-        int[] a = { 2, 1, 2 };
-        // System.out.println(solve(a));
-    }
+    // public static void main(String[] args) {
+    //     int[] a = { 2, 1, 2 };
+    //     // System.out.println(solve(a));
+    // }
 }
