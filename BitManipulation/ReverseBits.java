@@ -11,8 +11,9 @@ public class ReverseBits {
         while (a > 0) {
             if ((a & 1) == 1) {
                 n = n ^ (i << (31 - i));
-                
             }
+            i++;
+            a >>= 1;
         }
         return ans;
     }
