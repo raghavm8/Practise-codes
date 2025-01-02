@@ -10,7 +10,7 @@ public class ElementsRemoval {
 
         for (int i = 0; i < n; i++) {
             int num = A[n - i - 1];
-            ans = ans + (i + 1);
+            ans = ans + num*(i + 1);
         }
 
         return ans;
